@@ -10,7 +10,7 @@ A project to analyze students’ mistakes and performance over time and identify
 Goal: generate a clear diagnostic report and suggest what to study next.
 
 **Focus:** data analysis, classification, recommendations  
-**Tools:** Python, Pandas, SQL, scikit-learn
+**Tools:** Python, Pandas, scikit-learn
 
 ---
 
@@ -28,7 +28,7 @@ End-to-end churn analysis to identify customers at risk and the drivers behind c
 Goal: build a churn prediction model and provide actionable insights to improve retention.
 
 **Focus:** SQL analytics, segmentation, classification, explainability  
-**Tools:** SQL (PostgreSQL), Python, scikit-learn
+**Tools:** SQL (SQLite), Python, scikit-learn
 
 ---
 
@@ -37,7 +37,7 @@ A trading research project on Bitcoin market data: building a complete pipeline 
 ML experiments and strategy evaluation with backtesting.
 
 **Focus:** time series, ML, backtesting metrics  
-**Tools:** Python, SQL, PyTorch/scikit-learn, Jupyter
+**Tools:** Python, PyTorch/scikit-learn, Jupyter
 
 ---
 
